@@ -4,3 +4,4 @@
 | --- | ----------- | --- |
 | 01 | [Expanding-Cards](https://github.com/akj0712/50Projects50Days/tree/master/Expanding-Cards) | [Live Demo](https://akj0712-expanding-cards.netlify.app/) |
 | 02 | [Progress-Steps](https://github.com/akj0712/50Projects50Days/tree/master/Progress-Steps) | [Live Demo](https://akj0712-progress-steps.netlify.app/) |
+| 03 | [Rotating-Navigation-Animation](https://github.com/akj0712/50Projects50Days/tree/master/Rotating-Navigation) | [Live Demo](https://rotating-navigation-animation.netlify.app/) |
