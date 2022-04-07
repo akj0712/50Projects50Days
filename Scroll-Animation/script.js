@@ -1,4 +1,4 @@
-console.log("Project Name");
+console.log("Scroll Animation");
 
 const boxes = document.querySelectorAll(".box");
 
