@@ -8,3 +8,4 @@
 | 04 | [Hidden Search](https://github.com/akj0712/50Projects50Days/tree/master/Hidden-Search-Widget) | [Live Demo](https://akj0712-hidden-search-widget.netlify.app/) |
 | 05 | [Blurry Loading](https://github.com/akj0712/50Projects50Days/tree/master/Blurry-Loading) | [Live Demo](https://akj0712-blurry-loading.netlify.app/) |
 | 06 | [Scroll Animation](https://github.com/akj0712/50Projects50Days/tree/master/Scroll-Animation) | [Live Demo](https://akj0712-scroll-animation.netlify.app/) |
+| 07 | [Split Landing Page](https://github.com/akj0712/50Projects50Days/tree/master/Split-Landing-Page) | [Live Demo](https://akj0712-split-landing-page.netlify.app/) |
