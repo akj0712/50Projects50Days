@@ -10,3 +10,4 @@
 | 06 | [Scroll Animation](https://github.com/akj0712/50Projects50Days/tree/master/Scroll-Animation) | [Live Demo](https://akj0712-scroll-animation.netlify.app/) |
 | 07 | [Split Landing Page](https://github.com/akj0712/50Projects50Days/tree/master/Split-Landing-Page) | [Live Demo](https://akj0712-split-landing-page.netlify.app/) |
 | 08 | [Form Wave Animation](https://github.com/akj0712/50Projects50Days/tree/master/Form-Wave-Animation) | [Live Demo](https://akj0712-form-wave-animation.netlify.app/) |
+| 09 | [Sound Board](https://github.com/akj0712/50Projects50Days/tree/master/Sound-Board) | [Live Demo](https://akj0712-sound-board.netlify.app/) |
