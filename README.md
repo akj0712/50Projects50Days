@@ -13,3 +13,4 @@
 | 09 | [Sound Board](https://github.com/akj0712/50Projects50Days/tree/master/Sound-Board) | [Live Demo](https://akj0712-sound-board.netlify.app/) |
 | 10 | [Dad Jokes](https://github.com/akj0712/50Projects50Days/tree/master/Dad-Jokes) | [Live Demo](https://akj0712-dad-jokes.netlify.app/) |
 | 11 | [Event Key Code](https://github.com/akj0712/50Projects50Days/tree/master/Event-KeyCodes) | [Live Demo](https://akj0712-event-key-codes.netlify.app/) |
+| 12 | [FAQ Collapse](https://github.com/akj0712/50Projects50Days/tree/master/FAQ-Collapse) | [Live Demo](https://akj0712-faq-collapse.netlify.app/) |
