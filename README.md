@@ -15,3 +15,4 @@
 | 11  | [Event Key Code](https://github.com/akj0712/50Projects50Days/tree/master/Event-KeyCodes)                     | [Live Demo](https://akj0712-event-key-codes.netlify.app/)       |
 | 12  | [FAQ Collapse](https://github.com/akj0712/50Projects50Days/tree/master/FAQ-Collapse)                         | [Live Demo](https://akj0712-faq-collapse.netlify.app/)          |
 | 13  | [Random Choice Picker](https://github.com/akj0712/50Projects50Days/tree/master/Random-Choice-Picker)         | [Live Demo](https://akj0712-random-choice-picker.netlify.app/)  |
+| 14  | [Animated Navigation](https://github.com/akj0712/50Projects50Days/tree/master/Animated-Navigation)           | [Live Demo](https://akj0712-animated-navigation.netlify.app/)   |
