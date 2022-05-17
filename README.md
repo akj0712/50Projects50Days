@@ -21,3 +21,4 @@
 | 17  | [Movie App](https://github.com/akj0712/50Projects50Days/tree/master/Movie-App)                               | [Live Demo](https://akj0712-movie-app.netlify.app/)             |
 | 18  | [Background Slider](https://github.com/akj0712/50Projects50Days/tree/master/Background-Slider)               | [Live Demo](https://akj0712-background-slider.netlify.app/)     |
 | 19  | [Theme Clock](https://github.com/akj0712/50Projects50Days/tree/master/Theme-Clock)                           | [Live Demo](https://akj0712-theme-clock.netlify.app/)           |
+| 20  | [Button Ripple Effect](https://github.com/akj0712/50Projects50Days/tree/master/Button-Ripple-Effect)         | [Live Demo](https://akj0712-button-ripple-effect.netlify.app/)  |
