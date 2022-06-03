@@ -25,3 +25,4 @@
 | 21  | [Drag N Drop](https://github.com/akj0712/50Projects50Days/tree/master/Drag-N-Drop)                           | [Live Demo](https://akj0712-drag-n-drop.netlify.app/)           |
 | 22  | [Drawing App](https://github.com/akj0712/50Projects50Days/tree/master/Drawing-App)                           | [Live Demo](https://akj0712-drawing-app.netlify.app/)           |
 | 23  | [Kinetic CSS Loader](https://github.com/akj0712/50Projects50Days/tree/master/Kinetic-CSS-Loader)             | [Live Demo](https://akj0712-kinetic-css-loader.netlify.app/)    |
+| 24  | [Content Placeholder](https://github.com/akj0712/50Projects50Days/tree/master/Content-Placeholder)           | [Live Demo](https://akj0712-content-placeholder.netlify.app/)   |
