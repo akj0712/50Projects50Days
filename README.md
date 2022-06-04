@@ -26,3 +26,4 @@
 | 22  | [Drawing App](https://github.com/akj0712/50Projects50Days/tree/master/Drawing-App)                           | [Live Demo](https://akj0712-drawing-app.netlify.app/)           |
 | 23  | [Kinetic CSS Loader](https://github.com/akj0712/50Projects50Days/tree/master/Kinetic-CSS-Loader)             | [Live Demo](https://akj0712-kinetic-css-loader.netlify.app/)    |
 | 24  | [Content Placeholder](https://github.com/akj0712/50Projects50Days/tree/master/Content-Placeholder)           | [Live Demo](https://akj0712-content-placeholder.netlify.app/)   |
+| 25  | [Sticky Navigation](https://github.com/akj0712/50Projects50Days/tree/master/Sticky-Navbar)                   | [Live Demo](https://akj0712-sticky-navbar.netlify.app/)         |
