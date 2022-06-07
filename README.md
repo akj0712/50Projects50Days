@@ -28,3 +28,4 @@
 | 24  | [Content Placeholder](https://github.com/akj0712/50Projects50Days/tree/master/Content-Placeholder)           | [Live Demo](https://akj0712-content-placeholder.netlify.app/)   |
 | 25  | [Sticky Navigation](https://github.com/akj0712/50Projects50Days/tree/master/Sticky-Navbar)                   | [Live Demo](https://akj0712-sticky-navbar.netlify.app/)         |
 | 26  | [Vertical Slider](https://github.com/akj0712/50Projects50Days/tree/master/Vertical-Slider)                   | [Live Demo](https://akj0712-vertical-slider.netlify.app/)       |
+| 27  | [Toast Notification](https://github.com/akj0712/50Projects50Days/tree/master/Toast-Notification)             | [Live Demo](https://akj0712-toast-notification.netlify.app/)    |
