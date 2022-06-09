@@ -29,3 +29,5 @@
 | 25  | [Sticky Navigation](https://github.com/akj0712/50Projects50Days/tree/master/Sticky-Navbar)                   | [Live Demo](https://akj0712-sticky-navbar.netlify.app/)         |
 | 26  | [Vertical Slider](https://github.com/akj0712/50Projects50Days/tree/master/Vertical-Slider)                   | [Live Demo](https://akj0712-vertical-slider.netlify.app/)       |
 | 27  | [Toast Notification](https://github.com/akj0712/50Projects50Days/tree/master/Toast-Notification)             | [Live Demo](https://akj0712-toast-notification.netlify.app/)    |
+| 28  | [Github Profiles](https://github.com/akj0712/50Projects50Days/tree/master/GitHub-Profiles)                   | [Live Demo](https://akj0712-github-profiles.netlify.app/)       |
+| 29  | [Double Click Heart](https://github.com/akj0712/50Projects50Days/tree/master/Double-Heart-Click)             | [Live Demo](https://akj0712-double-heart-click.netlify.app/)    |
