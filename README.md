@@ -32,3 +32,6 @@
 | 28  | [Github Profiles](https://github.com/akj0712/50Projects50Days/tree/master/GitHub-Profiles)                   | [Live Demo](https://akj0712-github-profiles.netlify.app/)       |
 | 29  | [Double Click Heart](https://github.com/akj0712/50Projects50Days/tree/master/Double-Heart-Click)             | [Live Demo](https://akj0712-double-heart-click.netlify.app/)    |
 | 30  | [Auto Text Effect](https://github.com/akj0712/50Projects50Days/tree/master/Auto-Text-Effect)                 | [Live Demo](https://akj0712-auto-text-effect.netlify.app/)      |
+| 31  | [Password Generator](https://github.com/akj0712/50Projects50Days/tree/master/Password-Generator)             | [Live Demo](https://akj0712-password-generator.netlify.app/)    |
+| 32  | [Good, Cheap, Fast Check-Boxes](https://github.com/akj0712/50Projects50Days/tree/master/Check-Boxes)         | [Live Demo](https://akj0712-check-boxes.netlify.app/)           |
+| 33  | [Notes App](https://github.com/akj0712/50Projects50Days/tree/master/Notes-App)                               | [Live Demo](https://akj0712-notes-app.netlify.app/)             |
