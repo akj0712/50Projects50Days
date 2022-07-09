@@ -36,3 +36,4 @@
 | 32  | [Good, Cheap, Fast Check-Boxes](https://github.com/akj0712/50Projects50Days/tree/master/Check-Boxes)         | [Live Demo](https://akj0712-check-boxes.netlify.app/)           |
 | 33  | [Notes App](https://github.com/akj0712/50Projects50Days/tree/master/Notes-App)                               | [Live Demo](https://akj0712-notes-app.netlify.app/)             |
 | 34  | [Animated Countdown](https://github.com/akj0712/50Projects50Days/tree/master/Animated-Countdown)             | [Live Demo](https://akj0712-animated-countdown.netlify.app/)    |
+| 35  | [Image Carousel](https://github.com/akj0712/50Projects50Days/tree/master/Image-Carousel)                     | [Live Demo](https://akj0712-image-carousel.netlify.app/)        |
