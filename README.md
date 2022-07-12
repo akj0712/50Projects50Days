@@ -42,3 +42,4 @@
 | 38  | [Mobile Tab Navigation](https://github.com/akj0712/50Projects50Days/tree/master/Mobile-Tab-Navigation)               | [Live Demo](https://akj0712-mobile-tab-navigation.netlify.app/)        |
 | 39  | [Password Strength Background](https://github.com/akj0712/50Projects50Days/tree/master/Password-Strength-Background) | [Live Demo](https://akj0712-password-strength-background.netlify.app/) |
 | 40  | [3D Background Boxes](https://github.com/akj0712/50Projects50Days/tree/master/3D-Background-Boxes)                   | [Live Demo](https://akj0712-3d-background-boxes.netlify.app/)          |
+| 41  | [Verify Account UI](https://github.com/akj0712/50Projects50Days/tree/master/Verify-Account-UI)                       | [Live Demo](https://akj0712-verify-account-ui.netlify.app/)            |
