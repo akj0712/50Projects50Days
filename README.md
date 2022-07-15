@@ -46,3 +46,4 @@
 | 42  | [Live User Filter](https://github.com/akj0712/50Projects50Days/tree/master/Live-User-Filter)                         | [Live Demo](https://akj0712-live-user-filter.netlify.app/)             |
 | 43  | [Feedback UI Design](https://github.com/akj0712/50Projects50Days/tree/master/Feedback-UI-Design)                     | [Live Demo](https://akj0712-feedback-ui-design.netlify.app/)           |
 | 44  | [Custom Range Slider](https://github.com/akj0712/50Projects50Days/tree/master/Custom-Range-Slider)                   | [Live Demo](https://akj0712-custom-range-slider.netlify.app/)          |
+| 45  | [Netflix Navigation](https://github.com/akj0712/50Projects50Days/tree/master/Netflix-Navigation)                     | [Live Demo](https://akj0712-netflix-navigation.netlify.app/)           |
